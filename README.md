@@ -12,7 +12,7 @@
   <img align="center" alt="S-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="S-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="S-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="S-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="S-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 </div>
   
   ##
@@ -20,7 +20,7 @@
 <div align="center">
 	<a href="https://github.com/SimoesH10?tab=repositories">
 		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SimoesH10&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Stats">
-		<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoesH10&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages"> -->
+		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoesH10&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages">
 	</a>
 </div>
 
